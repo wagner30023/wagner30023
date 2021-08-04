@@ -19,12 +19,12 @@
     <img align="center" alt="Carlos-JS" height="30" width="40"  src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
     <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" alt="Carlos-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img align="center" alt="Carlos-PHP" height="30" width="40"  src="https://img.icons8.com/color/96/000000/nodejs.png"/>
     <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
     <img  align="center" alt="Carlos-Mysql" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://img.icons8.com/color/48/000000/php.png"/>
-    <img align="center" alt="Carlos-PHP" height="30" width="40"  src="https://img.icons8.com/color/96/000000/nodejs.png"/>
     <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-    <img align="center" alt="Carlos-Control-m" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+    <img align="center" alt="Carlos-Docker-m" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
     <img align="center" alt="Carlos-Control-m" height="30" width="40" src="https://data.apkhere.com/88/com.bmc.selfservice.mobile/9.0.20/icon.png!s"/>
   </div>
   
