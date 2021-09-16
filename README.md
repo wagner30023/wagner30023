@@ -1,6 +1,6 @@
 ### Olá eu sou Carlos Wagner 👋
 
-- 🔭  Developer Freelancer currently ...
+- 🔭 
 - 🌱 learning Node and Laravel ...
 -->
 
