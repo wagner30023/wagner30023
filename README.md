@@ -34,6 +34,11 @@
      <h3> Media: </h3>
   <a href="https://instagram.com/carloswmorais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-wagner-p-morais-418571b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-    <a href="https://wagner30023.github.io/portifolio/"> <h3> Portífólio </h3> </a>
+    
+    <h3> Portífolio </h3>
+    <a href="https://wagner30023.github.io/portifolio/"> <img height="120" width="160" src="https://st3.depositphotos.com/6064568/12938/v/950/depositphotos_129380768-stock-illustration-man-programmer-hipster-is-working.jpg" /> </a>
+    
+
+
+    
 </div>
