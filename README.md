@@ -1,7 +1,7 @@
 ### Olá eu sou Carlos Wagner 👋
 
 - 🔭 
-- 🌱 learning NodeJS, Python and Laravel ...
+- 🌱 learning React, NodeJS, Python and Laravel ...
 -->
 
   <br/> 
