@@ -39,4 +39,6 @@
     
     <h3> Portífolio </h3>
     <a href="https://wagner30023.github.io/new_portifolio/"> <img height="120" width="160" src="https://st3.depositphotos.com/6064568/12938/v/950/depositphotos_129380768-stock-illustration-man-programmer-hipster-is-working.jpg" target="_blank" /> </a>  
-</div>
+
+  
+  </div>
