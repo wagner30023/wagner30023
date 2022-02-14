@@ -23,7 +23,8 @@
     <img align="center" alt="Carlos-NodeJS" height="30" width="40"  src="https://img.icons8.com/color/96/000000/nodejs.png"/>
     <img align="center" alt="Carlos-PHP" height="30" width="40"  src="https://img.icons8.com/color/48/000000/php.png"/>
     <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-    <img align="center" alt="Carlos-Laravel" height="30" width="40"  src="https://img.icons8.com/color/144/000000/python--v2.png"/>
+    <img align="center" alt="Carlos-Symfony" height="30" width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-symfony-is-a-php-web-application-framework-logo-shadow-tal-revivo.png"/>
+    <img align="center" alt="Carlos-Python" height="30" width="40"  src="https://img.icons8.com/color/144/000000/python--v2.png"/>
     <img  align="center" alt="Carlos-Mysql" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img  align="center" alt="Carlos-Postgresql" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
