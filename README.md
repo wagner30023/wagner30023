@@ -25,6 +25,7 @@
     <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
     <img align="center" alt="Carlos-Laravel" height="30" width="40"  src="https://img.icons8.com/color/144/000000/python--v2.png"/>
     <img  align="center" alt="Carlos-Mysql" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img  align="center" alt="Carlos-Postgresql" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img align="center" alt="Carlos-Docker-m" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
     <img align="center" alt="Carlos-Control-m" height="30" width="40" src="https://data.apkhere.com/88/com.bmc.selfservice.mobile/9.0.20/icon.png!s"/>
