@@ -20,7 +20,7 @@
     <img align="center" alt="Carlos-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" alt="Carlos-JS" height="30" width="40"  src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
     <img  align="center" alt="Carlos-React-JS" height="30" width="40" src="https://img.icons8.com/office/80/000000/react.png"/>
-    <img align="center" alt="Carlos-NodeJS" height="30" width="40"  src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+    <img align="center" alt="Carlos-NodeJS" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
     <img align="center" alt="Carlos-PHP" height="30" width="40"  src="https://img.icons8.com/color/48/000000/php.png"/>
     <img align="center" alt="Carlos-Laravel" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
     <img align="center" alt="Carlos-Symfony" height="30" width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-symfony-is-a-php-web-application-framework-logo-shadow-tal-revivo.png"/>
